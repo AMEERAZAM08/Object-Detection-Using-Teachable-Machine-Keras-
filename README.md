@@ -17,4 +17,4 @@ git commit
 ![This is an image](https://github.com/AMEERAZAM08/Object-Detection-Using-Teachable-Machine-Keras-/blob/6af9ab11e53fbcd8f28171de6d421b7c7140a82a/Capture.JPG)
 
 ## OutPut as Array of two value basically in this i have use second image white black combination
-![This is an image](https://github.com/AMEERAZAM08/Object-Detection-Using-Teachable-Machine-Keras-/blob/6af9ab11e53fbcd8f28171de6d421b7c7140a82a/Capture3.JPG)
+![This is an image](Capture3.JPG)
